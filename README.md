@@ -7,7 +7,7 @@ Aulas de Desenvolvimento de Software I com o professor João Siles utilizando Ja
 2. Execute o arquivo e clique em **"Next"** até a conclusão;
 
 3. Para a configuração da variável **JAVA_HOME**, pesquise no Windows "Editar as variáveis de ambiente do sistema";
-
+oiiiiiiiiiii
 4. Em **Variáveis do Sistema**, defina o nome como JAVA_HOME ao clicar em **"Novo"**, usando o caminho da pasta JDK;
 
 5. Depois irá configurar o **Path**, selecionando essa opção com dois cliques e adicionando `%JAVA_HOME%\bin`;
