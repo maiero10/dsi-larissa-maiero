@@ -1,10 +1,10 @@
 # Desenvolvimento de Software I
 Aulas de Desenvolvimento de Software I com o professor João Siles utilizando Java.
-ooioioioioioioioioioi
+
 ### Configuração do Java no computador
 1. Faça o download do **JDK (Java Development Kit)** pelo site da Oracle ou distribuições OpenJDK como Adoptium ou Eclipse Temurin. Se for **Windows**, baixe o **x64**;
 
-2. Execute o arquivo e clique em **"Next"** até a conclusão;
+2. Execute o arquivo, clique em **"Next"** até aparecer uma telinha com 4 opções onde as duas últimas estão com um **X** em vermelho, clique nelas e mude para a primeira opção que aparecer "will be installed on local hard drive", depois continue avançando até concluir a instalação;
 
 3. Para a configuração da variável **JAVA_HOME**, pesquise no Windows "Editar as variáveis de ambiente do sistema";
 
