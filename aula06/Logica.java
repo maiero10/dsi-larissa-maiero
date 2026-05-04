@@ -13,13 +13,13 @@ public class Logica {
         // || operador lógico OR
         System.out.println(a || b);
 
-        int x = 5;
-        System.out.println(x > 3 || x < 4);
+        int y = 5;
+        System.out.println(y > 3 || y < 4);
 
         // ! operador lógico NOT
         System.out.println(!a);
 
-        int x = 5;
-        System.out.println(!(x > 3 && x < 10));
+        int z = 5;
+        System.out.println(!(z > 3 && z < 10));
     }
 }
