@@ -35,3 +35,24 @@ O Java é uma linguagem de programação presente em diversos lugares, como nos 
 3. O JRE vai fornecer as bibliotecas necessárias pra JVM rodar corretamente;
 
 4. A JVM vai rodar o bytecode traduzindo-o para a linguagem da máquina do computador; 
+
+# Oque é Spring Boot
+  Spring Boot é um framework do java que ajuda o desenvolvedor a criar aplicações de forma rápida, simples e padronizada.
+
+## Como configurar o Spring Boot  de 3 maneiras
+###  1. Spring initializr
+![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP4dWwa6k_mjjvrfwSbB15cR-OCOpIdVjlHsu_yKk4Ww&s=10)
+
+- Abra o site https://start.spring.io/
+- Escolha as opções necessárias, e dependencias. (Prof recomenda usar Spring Web e Spring Boot Dev Tools)
+- E crie o projeto
+- Ele vai gerar um arquivo zip totalmente formatado
+
+### 2. Vscode  
+![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1XBXcsv2zHTIrC5DiGufOC6TM8YrU61nze6xwHypGw&s=10)
+
+- Baixe o Vscode pelo link: https://code.visualstudio.com/
+- Depois é só apertar ctrl + shift + P
+- Busque e selecione **Spring Initializr: Create a Maven Project**
+- Então é só ir configurando o seu projeto
+- Ele criara uma pasta totalmente formatada e pronta para uso
